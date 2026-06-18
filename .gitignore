@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.playwright/
+playwright-report/
+test-results/
+tmp/
+*.tsbuildinfo
+src/**/*.tsbuildinfo
+npm-debug.log*
+debug.log
